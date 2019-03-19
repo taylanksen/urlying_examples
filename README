@@ -1,0 +1,12 @@
+Example analyses on using the UR_LYING deception datasets.
+
+http://roc-hci.com/current-projects/deception-project/
+
+Before running code, you will need to download and decompress data into:
+
+    data/
+       commanded_med_stakes_openface.csv
+       voluntary_med_stakes_openface.csv
+       commanded_low_stakes_openface.csv
+       
+
